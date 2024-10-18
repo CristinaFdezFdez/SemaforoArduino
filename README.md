@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-"# SemaforoArduino" 
+# Semaforo Arduino
 ![Arduino](./semaforoArduino.gif)
 
