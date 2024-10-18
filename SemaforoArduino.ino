@@ -2,7 +2,7 @@ int ledRoja = 12;
 int ledAzul = 10;
 int ledAmarilla = 8;
 
-float tiempoEncendido = 2000; 
+int tiempoEncendido = 2000; 
 
 void setup() {
   pinMode(ledRoja, OUTPUT);  
@@ -24,5 +24,5 @@ void loop() {
   delay(tiempoEncendido);
   digitalWrite(ledAmarilla, LOW);
   
-  tiempoEncendido = (tiempoEncendido > 100) ? tiempoEncendido - 100 : 100;  
+  tiempoEncendido = (tiempoEncendido > 100) ? tiempoEncendido - 100 : tiempoEncendido;  
 }

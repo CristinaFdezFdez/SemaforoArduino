@@ -1,1 +1,2 @@
 "# SemaforoArduino" 
+![Arduino](./semaforoArduino.gif)
