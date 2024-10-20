@@ -5,6 +5,10 @@
 ## Introducción
 En esta práctica, se ha implementado un sistema que simula el funcionamiento de un semáforo utilizando LEDs y Arduino. El semáforo tiene tres luces (rojo, amarillo y azul) que se encienden en un orden específico, con un tiempo de encendido que disminuye en cada ciclo.
 
+## Tecnologías empleadas:
+- Arduino  
+  ![Arduino Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg)
+
 ## Código
 
 ```cpp
@@ -38,5 +42,10 @@ void loop() {
   // Reducir tiempo de encendido en 100ms por ciclo, con un mínimo de 100ms
   tiempoEncendido = (tiempoEncendido > 100) ? tiempoEncendido - 100 : 100;
 }
+```
+## Realizado por:
+**Cristina**  
+[portfoliocristina.netlify.app/certificados](https://portfoliocristina.netlify.app/certificados)
+
 
 
