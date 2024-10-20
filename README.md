@@ -1,4 +1,4 @@
-#Sistema Informático Simulando un Semáforo - Arduino
+# Simulando un Semáforo - Arduino
 
 ![Arduino](./semaforoArduino.gif)
 
