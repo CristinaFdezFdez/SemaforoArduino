@@ -7,7 +7,7 @@ En esta práctica, se ha implementado un sistema que simula el funcionamiento de
 
 ## Tecnologías empleadas:
 - Arduino  
-  ![Arduino Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino Icon" width="50"/>
 
 ## Código
 
