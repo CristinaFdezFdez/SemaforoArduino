@@ -1,4 +1,4 @@
-# AE3. Sistema Informático Simulando un Semáforo - Arduino
+#Sistema Informático Simulando un Semáforo - Arduino
 
 ![Arduino](./semaforoArduino.gif)
 
