@@ -1,6 +1,3 @@
-"# SemaforoArduino" 
-![Arduino](./semaforo.jpeg)
-=======
 # Simulando un Semáforo - Arduino
 
 ![Arduino](./semaforo.jpeg)
