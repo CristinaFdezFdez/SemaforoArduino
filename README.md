@@ -47,7 +47,7 @@ void loop() {
 ```
 ## Realizado por:
 **Cristina Fernández**  
-[portfoliocristina.netlify.app/certificados](https://portfoliocristina.netlify.app/certificados)
+[portfoliocristina.netlify.app/certificados](https://portfoliocristina.netlify.app)
 
 
 
