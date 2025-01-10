@@ -1,4 +1,5 @@
 # Simulando un Semáforo - Arduino
+![5c2e72ef-d6b9-4af9-beec-954dc0f5f65d](https://github.com/user-attachments/assets/0590f302-6c38-4032-9db3-bb6b046f7f85)
 
 ![Arduino](./semaforo.jpeg)
 
